@@ -1,0 +1,47 @@
+
+.row_title{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+}
+.row_show{
+    display: flex;
+    flex-wrap: wrap;
+}
+.row_posters{
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+}
+.row_posters::-webkit-scrollbar{
+    display: none;
+}
+.row_posters:hover{
+    background-color: rgb(164, 193, 220);
+}
+.banner{
+    width: 80%;
+    height: 80%;
+    position: absolute;
+    top: 10%;
+    background-color: rgb(153, 207, 255);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    align-items: center;
+    justify-content: center;
+}
+.cutlogo{
+    width: 35px;
+    position: absolute;
+    top: 6%;
+    right: 4%;
+}
+.banner h5{
+    max-width: 550px;
+    margin-top: 10px;
+}
