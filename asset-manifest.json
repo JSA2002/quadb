@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/quadb/static/css/main.d78cd565.css",
+    "main.js": "/quadb/static/js/main.12086d6e.js",
+    "static/media/pngegg.png": "/quadb/static/media/pngegg.404d30d51e274c91f76f.png",
+    "index.html": "/quadb/index.html",
+    "main.d78cd565.css.map": "/quadb/static/css/main.d78cd565.css.map",
+    "main.12086d6e.js.map": "/quadb/static/js/main.12086d6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d78cd565.css",
+    "static/js/main.12086d6e.js"
+  ]
+}
